@@ -1,4 +1,4 @@
-### Practice and Project Codes from Hunter College, Data Week 2025 hosted by the Department of Computer Science
+# Practice and Project Codes from Hunter College, Data Week 2025 hosted by the Department of Computer Science
 
 ## Files
 
