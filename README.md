@@ -1,9 +1,11 @@
-# Practice and Project Codes from Hunter College, Data Week 2025 hosted by the Department of Computer Science
+# Practice and Project Codes from Data Week 2025 hosted by the Hunter College Department of Computer Science
 
 ## Files
 
 | File                                     | Description                                                              |
 |------------------------------------------|--------------------------------------------------------------------------|
-| `sql0818.sql`                            | SQL tutorial code from 08/18 presentation                                |
+| `sql0818.sql`                            | SQL tutorial/practice code from 08/18 presentation                                |
+| `python_0819`                            | Python tutorial/practice code from 08/19 presentation                          |
+| `pythonmachinelearning_0820`             | Python visualization and supervised machine learning tutorial/practice code     |
 
-Additional Python practice at https://huntercsci127.github.io/f24/ps.html
+### Source codes adopted from Data Week 2025 curriculum. This repository serves as practice.
