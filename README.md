@@ -10,4 +10,4 @@ This repository contains practice and project codes from Data Week 2025 hosted b
 | `python_0819`                            | Python tutorial/practice code from 08/19 presentation                          |
 | `pythonmachinelearning_0820`             | Python visualization and supervised machine learning tutorial/practice code     |
 
-### Source codes adopted from Data Week 2025 curriculum. This repository serves as practice.
+### Source codes are adopted from the Data Week 2025 curriculum. This repository serves as practice for data analysis.
